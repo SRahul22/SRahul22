@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @SRahul22
-- 👀 I’m interested in Computer Science & Data Science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/srahul22
+# Rahul
+
+Interested in mathematics, computer science, intelligent systems, and the ideas that connect them.
+
+I enjoy learning deeply, building thoughtfully, and understanding systems from first principles.
+
+Sometimes that means writing code.  
+Sometimes it means staring at a problem for hours.
+
+---
+
+> Curiosity before convention.
 
 <!---
 SRahul22/SRahul22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
